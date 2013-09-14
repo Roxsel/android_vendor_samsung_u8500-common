@@ -44,7 +44,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/system/lib/lib_Samsung_SB_AM_for_ICS_v03008.so:system/lib/lib_Samsung_SB_AM_for_ICS_v03008.so \
     $(LOCAL_PATH)/system/lib/libhalaudioprocessing.so:system/lib/libhalaudioprocessing.so \
     $(LOCAL_PATH)/system/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
-    $(LOCAL_PATH)/system/lib/libsamsungtts.so:system/lib/libsamsungtts.so \
     $(LOCAL_PATH)/system/lib/libSR_AudioIn.so:system/lib/libSR_AudioIn.so
 
 # RIL
